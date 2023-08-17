@@ -3,7 +3,7 @@
 <h3 align="center">A student of Ha Noi University of Sience and Teachnology</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khvavuong&label=Profile%20views&color=0e75b6&style=flat" alt="khvavuong" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khvavuong&style=flat-square&color=blue" alt="khvavuong"/> </p>
 
 ---
 

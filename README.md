@@ -27,7 +27,7 @@ I’m currently learning in Ha Noi University of Sience and Teachnology<img src=
 <p align="left">
 <a href="https://www.facebook.com/vanvuong.278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vanvuong.278" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/khuat-van-vuong-77300b288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khuat-van-vuong-77300b288" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vavuong27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vavuong27" height="30" width="40" /></a>
+<a href="https://www.instagram.com/khvavuong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vavuong27" height="30" width="40" /></a>
 <a href="mailto:vuong2002vp@gmail.com" target="blank"><img align="center" src="https://media.giphy.com/media/QuI2G48pcj20qNHE3f/giphy.gif" alt="vuong2002vp" height="60" width="50" /></a>
 </p>
 
